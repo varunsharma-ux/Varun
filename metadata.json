@@ -1,0 +1,7 @@
+{
+  "name": "Copy of THE CHASTAIN - Michelin Green Star Dining",
+  "description": "A sophisticated farm-to-table New American restaurant website showcasing seasonal craft, a culinary garden, and refined hospitality in Buckhead, Atlanta.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
